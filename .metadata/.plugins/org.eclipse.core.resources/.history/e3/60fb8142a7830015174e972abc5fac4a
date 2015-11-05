@@ -1,0 +1,5 @@
+package ipint.ejb.person;
+
+public class PersonCatalogRemote {
+
+}
