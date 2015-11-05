@@ -1,5 +1,0 @@
-package ipint.ejb.person.entities;
-
-public class Person {
-
-}

@@ -1,5 +1,0 @@
-package ipint.ejb.person.impl;
-
-public class PersonCatalogImpl {
-
-}
